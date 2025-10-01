@@ -1,0 +1,30 @@
+{
+	"folders": [
+		{
+			"name": "00-compiling-program",
+			"path": "00-compiling-program"
+		},
+		{
+			"name": "01-variables",
+			"path": "01-variables"
+		},
+		{
+			"name": "03-oop-and-memory-management",
+			"path": "03-oop-and-memory-management"
+		},
+		{
+			"name": "04-modern-cpp-memory-management",
+			"path": "04-modern-cpp-memory-management"
+		},
+		{
+			"path": "05-virtual-functions-and-abstract-class"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"bitset": "cpp",
+			"algorithm": "cpp",
+			"format": "cpp"
+		}
+	}
+}

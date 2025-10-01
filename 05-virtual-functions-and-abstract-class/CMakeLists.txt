@@ -10,6 +10,7 @@ project(AssetManager)
 add_executable(asset_manager
     main.cpp
     src/DigitalAsset.cpp
+    src/ImageAsset.cpp
 )
 
 # Tell CMake where to find header files for the 'asset_manager' target.
