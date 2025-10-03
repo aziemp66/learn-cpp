@@ -21,6 +21,9 @@
 		},
 		{
 			"path": "06-operator-overloading"
+		},
+		{
+			"path": "07-templates-and-generic"
 		}
 	],
 	"settings": {
